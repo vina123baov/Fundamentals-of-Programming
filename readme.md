@@ -1,5 +1,11 @@
 Fundamentals of Programming
-name: Võ Huỳnh Thái Bảo
-mssv: 2201700186
+
+Thông tin sinh viên:
+
+Họ và tên: Võ Huỳnh Thái Bảo
+
+MSSV: 2201700186
+
+Quy định nộp bài:
 
 Cách đặt tên file: VHTB_BT1.cpp
