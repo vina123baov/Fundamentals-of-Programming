@@ -81,7 +81,7 @@ Fundamentals-of-Programming/
 
 <div align="center">
 
-### Happy Coding!
+### Cố gắng!
 
 Made with ❤️ by Võ Huỳnh Thái Bảo
 
