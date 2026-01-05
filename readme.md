@@ -1,11 +1,88 @@
-Fundamentals of Programming
+# 📚 Fundamentals of Programming
 
-Thông tin sinh viên:
+<div align="center">
 
-Họ và tên: Võ Huỳnh Thái Bảo
+![Programming](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Course](https://img.shields.io/badge/Course-FOP-blue?style=for-the-badge)
 
-MSSV: 2201700186
+</div>
 
-Quy định nộp bài:
+---
 
-Cách đặt tên file: VHTB_BT1.cpp
+##  Thông tin sinh viên
+
+| Thông tin | Chi tiết |
+|-----------|----------|
+| **Họ và tên** | Võ Huỳnh Thái Bảo |
+| **MSSV** | 2201700186 |
+| **Môn học** | Fundamentals of Programming |
+
+---
+
+## Quy định nộp bài
+
+### Cách đặt tên file
+
+```
+VHTB_BT<số_bài>.cpp
+```
+
+**Ví dụ:**
+- Bài tập 1: `VHTB_BT1.cpp`
+- Bài tập 2: `VHTB_BT2.cpp`
+- Bài tập 3: `VHTB_BT3.cpp`
+
+### Cấu trúc thư mục
+
+```
+Fundamentals-of-Programming/
+│
+├── 1\ 5\ 2026/
+│   ├── VHTB_BT1.cpp
+│   └── VHTB_BT2.cpp
+│
+├── README.md
+└── .gitignore
+```
+
+---
+
+## Công cụ phát triển
+
+- **IDE:** Visual Studio Code
+- **Compiler:** MinGW-w64 / MSYS2
+- **Language Standard:** C++17
+- **Extensions:** C/C++ (Microsoft)
+
+
+### Chạy chương trình
+
+**Windows:**
+```bash
+.\output_file.exe
+```
+
+**Linux/Mac:**
+```bash
+./output_file
+```
+
+---
+
+## Lưu ý
+
+- Đảm bảo code được format đẹp trước khi nộp
+- Kiểm tra kỹ tên file theo đúng quy định
+- Test chương trình trước khi submit
+- Comment code rõ ràng, dễ hiểu
+
+---
+
+<div align="center">
+
+### Happy Coding!
+
+Made with ❤️ by Võ Huỳnh Thái Bảo
+
+</div>
