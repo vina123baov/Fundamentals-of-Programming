@@ -1,4 +1,4 @@
-# 📚 Fundamentals of Programming
+# Fundamentals of Programming
 
 <div align="center">
 
@@ -72,10 +72,8 @@ Fundamentals-of-Programming/
 
 ## Lưu ý
 
-- Đảm bảo code được format đẹp trước khi nộp
-- Kiểm tra kỹ tên file theo đúng quy định
-- Test chương trình trước khi submit
-- Comment code rõ ràng, dễ hiểu
+- đã kiểm tra tên file 
+- Đảm bảo code đã test chương trình trước khi submit
 
 ---
 
