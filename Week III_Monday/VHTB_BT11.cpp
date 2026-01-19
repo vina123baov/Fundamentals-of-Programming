@@ -5,7 +5,7 @@ int main() {
     float a, b, c, A, B, C;
     float D, Dx, Dy;
     
-    cout << "Nhập hệ số phương trình 1 (ax + by = c):" << endl;
+    cout << "Nhap he so phuong trinh 1 (ax + by = c):" << endl;
     cout << "a = ";
     cin >> a;
     cout << "b = ";
@@ -13,7 +13,7 @@ int main() {
     cout << "c = ";
     cin >> c;
     
-    cout << "\nNhập hệ số phương trình 2 (Ax + By = C):" << endl;
+    cout << "\nNhap he so phuong trinh 2 (Ax + By = C):" << endl;
     cout << "A = ";
     cin >> A;
     cout << "B = ";

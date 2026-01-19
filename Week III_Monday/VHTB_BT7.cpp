@@ -5,7 +5,7 @@ int main() {
     float a, b, c;
     float max, min;
     
-    cout << "Nhập 3 số thực: ";
+    cout << "nhap 3 so thuc: ";
     cin >> a >> b >> c;
     
     if (a >= b && a >= c) {
@@ -24,8 +24,8 @@ int main() {
         min = c;
     }
 
-    cout << "Số lớn nhất: " << max << endl;
-    cout << "Số nhỏ nhất: " << min << endl;
+    cout << "So lon nhat: " << max << endl;
+    cout << "So nho nhat: " << min << endl;
 
     return 0;
 }

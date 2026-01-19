@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int n;
     
-    cout << "Nhập số nguyên từ 0 - 20: ";
+    cout << "Nhap so nguyen tu 0 - 20: ";
     cin >> n;
     
     switch (n) {
@@ -72,7 +72,7 @@ int main() {
             cout << "Twenty" << endl;
             break;
         default:
-            cout << "Số không hợp lệ! chỉ nhập từ 0 - 20." << endl;
+            cout << "So khong hop le! chi nhap tu 0 - 20." << endl;
             break;
     }
     
