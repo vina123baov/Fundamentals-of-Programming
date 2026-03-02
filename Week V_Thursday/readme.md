@@ -169,3 +169,23 @@ for (int i = 0; i < n; i++) {
 ---
 
 > **Ghi chú:** Tài liệu này tổng hợp kiến thức về hàm và thuật toán trong C/C++.
+
+
+
+Bài tập: viết chương trình nhập n >= 2, tìm và xuất ra tất cả các số nguyên tố dương <= n 
+viết chương trình nhận n >=1, tìm và xuất ra n số nguyên tố duowntg (tính từ 2)
+
+yêu cầu trong chương trình có viết hàm kiếm tra số nguyên tố
+
+chương 5: giới thiệu về thuật toán:
+1. khía niệm thuật toán
+2. cách biểu diễn thuật toán
+3. NNTN
+II. lưu đồ 
+III. mã giả
+1. dạng ngôn ngữ "lai" trong đó kết hợp NNTN với các quy ước của NNLT
+- kiểu dữ liệu: biến
+- các cấu trúc điều khiển
+
+bài tập - ví dụ: viết thuật toán theo dạng mã giả
+1. viết thuật toán: cho 2 số tự nhiên a, b và số nguyên dương n, tìm và liệt kê ra n bội số chung của a và b
