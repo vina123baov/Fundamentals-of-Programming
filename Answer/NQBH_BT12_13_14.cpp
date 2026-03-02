@@ -2,6 +2,17 @@
 #include <iostream>
 using namespace std;
 
+
+void print_hello() {
+    cout << "Hello, world!" << endl;
+}
+
+int main() {
+    for (int i = 0; i < 5; ++i) print_hello();
+}
+
+
+
 int main() {
 	// problem 12
 	double Sm = 0; // khai báo biến Sm & khởi tạo giá trị 0. kiểu dữ liệu double vì khi m < 0, Sm là số thực

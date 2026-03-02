@@ -20,11 +20,11 @@ int main() {
     float duongcheo = sqrt(chieudai * chieudai + chieurong * chieurong);
 
     cout << "\n---Kết quả ---" << endl;
-    cout << "chiều dài: " << chieuDai << endl;
-    cout << "chiều rộng: " << chieuRong << endl;
-    cout << "chu vi hình chữ nhật: " << chuVi << endl;
-    cout << "diện tích hình chữ nhật: " << dientTich << endl;
-    cout << "độ dài đường chéo: " << duongCheo << endl;
+    cout << "chiều dài: " << chieudai << endl;
+    cout << "chiều rộng: " << chieurong << endl;
+    cout << "chu vi hình chữ nhật: " << chuvi << endl;
+    cout << "diện tích hình chữ nhật: " << dientich << endl;
+    cout << "độ dài đường chéo: " << duongcheo << endl;
 
     return 0;
 }
