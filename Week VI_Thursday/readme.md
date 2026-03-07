@@ -257,7 +257,7 @@ int TongChan(int A[], int N) {
 
 ---
 
-## Bài tập bắt buộc
+## Bài tập
 
 1. Viết chương trình nhập vào một dãy tăng dần (không cần sắp xếp). Nếu nhập sai thì nhập lại. Xuất các số nguyên tố có trong mảng.
 2. Kiểm tra mảng có **đối xứng** hay không.
