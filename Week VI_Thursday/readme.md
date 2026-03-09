@@ -3,9 +3,9 @@
 
 ---
 
-## buổi học
+## nội dung
 
-- Hiểu được khái niệm cơ bản mảng, mảng một chiều và cách tổ chức lưu trữ các phần tử trong mảng.
+- khái niệm cơ bản mảng, mảng một chiều và cách tổ chức lưu trữ các phần tử trong mảng.
 - Giải thích và sử dụng được một số thao tác cơ bản trên mảng một chiều.
 - Viết chương trình sử dụng mảng một chiều.
 
@@ -266,12 +266,3 @@ int TongChan(int A[], int N) {
 5. Viết hàm xóa phần tử có chỉ số `k` trong mảng `a` có `n` phần tử. Nếu `k < 0` hoặc `k >= n` thì không xóa (trả về `0`), ngược lại xóa và trả về `1`.
 
 ---
-
-## Các kỹ thuật quan trọng trong bài
-
-| Kỹ thuật | Mô tả | Ví dụ áp dụng |
-|----------|--------|---------------|
-| **Kỹ thuật lính canh** | Gán giá trị ban đầu rồi duyệt so sánh cập nhật | Tìm Max/Min |
-| **Kỹ thuật cờ hiệu** | Dùng biến flag để đánh dấu trạng thái | Kiểm tra SNT |
-| **Kỹ thuật đếm** | Dùng biến đếm tăng khi thỏa điều kiện | Đếm phần tử chẵn |
-| **Kỹ thuật tính tổng** | Cộng dồn giá trị thỏa điều kiện | Tổng phần tử chẵn |
