@@ -59,7 +59,7 @@ Mỗi mảng cần xác định 4 yếu tố:
 | **Kích thước** | 2 cột × 3 dòng | 4 phần tử |
 
 ---
-
+    
 ### 4. Mảng 1 chiều
 
 #### 4.1. Khai báo mảng 1 chiều
